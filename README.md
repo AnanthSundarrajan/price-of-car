@@ -60,7 +60,7 @@ Based on the analysis of key feature importances from the Ridge Regression model
 
 #### Outline of project
 
-- [Link to notebook]()
+- [Link to notebook](https://github.com/AnanthSundarrajan/price-of-car/blob/main/car_price.ipynb)
 - [Link to dataset - Unzip before running](https://github.com/AnanthSundarrajan/price-of-car/blob/main/vehicles.csv.zip)
 
 
