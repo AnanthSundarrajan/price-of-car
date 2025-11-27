@@ -11,7 +11,7 @@ The core business challenge is to determine the main factors influencing used ca
 What drives the price of a used car?
 
 #### Data Sources
-[Modified dataset from Kaggle] (vehicles.csv)
+[Modified dataset from Kaggle - Zipped](https://github.com/AnanthSundarrajan/price-of-car/blob/main/vehicles.csv.zip)
 
 #### Methodology
 Using the CRISP-DM Methodology, the predictive model uses the below methods:
